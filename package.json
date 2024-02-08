@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "name": "cats_paw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "default": "index.html",
+  "dependencies": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
